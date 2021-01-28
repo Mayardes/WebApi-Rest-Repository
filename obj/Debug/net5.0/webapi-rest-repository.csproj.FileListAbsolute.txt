@@ -1,0 +1,122 @@
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\appsettings.Development.json
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\appsettings.json
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\webapi-rest-repository.exe
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\webapi-rest-repository.deps.json
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\webapi-rest-repository.runtimeconfig.json
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\webapi-rest-repository.runtimeconfig.dev.json
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\webapi-rest-repository.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\ref\webapi-rest-repository.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\webapi-rest-repository.pdb
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.csprojAssemblyReference.cache
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.AssemblyInfo.cs
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\staticwebassets\webapi-rest-repository.StaticWebAssets.Manifest.cache
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\staticwebassets\webapi-rest-repository.StaticWebAssets.xml
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\scopedcss\bundle\webapi-rest-repository.styles.css
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.RazorTargetAssemblyInfo.cache
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.csproj.CopyComplete
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.dll
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\ref\webapi-rest-repository.dll
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.pdb
+C:\Projetos\Pessoais\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.genruntimeconfig.cache
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Humanizer.dll
+C:\Projetos\Pessoais\webapi-rest-repository\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\appsettings.json
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\webapi-rest-repository.exe
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\webapi-rest-repository.deps.json
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\webapi-rest-repository.runtimeconfig.json
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\webapi-rest-repository.runtimeconfig.dev.json
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\webapi-rest-repository.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\ref\webapi-rest-repository.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\webapi-rest-repository.pdb
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.csprojAssemblyReference.cache
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.AssemblyInfoInputs.cache
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.AssemblyInfo.cs
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.csproj.CoreCompileInputs.cache
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\staticwebassets\webapi-rest-repository.StaticWebAssets.Manifest.cache
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\staticwebassets\webapi-rest-repository.StaticWebAssets.xml
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\scopedcss\bundle\webapi-rest-repository.styles.css
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.RazorTargetAssemblyInfo.cache
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.csproj.CopyComplete
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\ref\webapi-rest-repository.dll
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.pdb
+C:\Users\Mayardes Oliveira\Desktop\webapi-rest-repository\obj\Debug\net5.0\webapi-rest-repository.genruntimeconfig.cache

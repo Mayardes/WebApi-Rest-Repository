@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapi-rest-repository", "webapi-rest-repository.csproj", "{CCCE6E01-A259-40AB-9C66-A1950BE8B889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCCE6E01-A259-40AB-9C66-A1950BE8B889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCE6E01-A259-40AB-9C66-A1950BE8B889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCE6E01-A259-40AB-9C66-A1950BE8B889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCE6E01-A259-40AB-9C66-A1950BE8B889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48D2D2C5-ACAC-480C-83B0-E8B9C9C07E47}
+	EndGlobalSection
+EndGlobal
