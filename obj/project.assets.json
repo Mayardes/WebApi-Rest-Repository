@@ -5984,11 +5984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mayardes Oliveira\\Desktop\\webapi-rest-repository\\webapi-rest-repository.csproj",
+      "projectUniqueName": "C:\\Projetos\\Pessoais\\webapi-rest-repository\\webapi-rest-repository.csproj",
       "projectName": "webapi-rest-repository",
-      "projectPath": "C:\\Users\\Mayardes Oliveira\\Desktop\\webapi-rest-repository\\webapi-rest-repository.csproj",
+      "projectPath": "C:\\Projetos\\Pessoais\\webapi-rest-repository\\webapi-rest-repository.csproj",
       "packagesPath": "C:\\Users\\Mayardes Oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mayardes Oliveira\\Desktop\\webapi-rest-repository\\obj\\",
+      "outputPath": "C:\\Projetos\\Pessoais\\webapi-rest-repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mayardes Oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
